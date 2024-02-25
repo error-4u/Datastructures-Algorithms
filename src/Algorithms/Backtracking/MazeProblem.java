@@ -2,7 +2,7 @@ package Algorithms.Backtracking;
 
 public class MazeProblem {
     public static void main(String[] args) {
-        System.out.println(countPath(2,3));
+        System.out.println(countPath(3,3));
     }
     static int countPath(int r, int c){
         if (r==1 || c==1){
