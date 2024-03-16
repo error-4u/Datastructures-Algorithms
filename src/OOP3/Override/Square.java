@@ -1,6 +1,4 @@
-package OOP3.Polymorphism;
-
-import java.awt.*;
+package OOP3.Override;
 
 public class Square extends shapes {
     @Override

@@ -1,4 +1,4 @@
-package OOP3.Polymorphism;
+package OOP3.Override;
 
 public class main {
     public static void main(String[] args) {
