@@ -10,6 +10,7 @@ public class box {
     box(int s){
         this.h = s;
     }
+
     box( int d, int b){
 
         this.l = d;

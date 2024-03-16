@@ -1,6 +1,6 @@
-package OOP3.Override;
+package OOP.OOP3.Override;
 
-public class shapes {
+public class Shapes {
 
     void area(){
         System.out.println("I am in Shapes");

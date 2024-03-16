@@ -1,6 +1,6 @@
-package OOP3.Override;
+package OOP.OOP3.Override;
 
-public class Square extends shapes {
+public class Square extends Shapes {
     @Override
     void area(){
 

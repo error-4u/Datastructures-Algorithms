@@ -1,11 +1,12 @@
-package OOP3.Override;
+package OOP.OOP3.Override;
 
 public class main {
     public static void main(String[] args) {
-        shapes shape = new shapes();
+        Shapes shape = new Shapes();
         Circle circle = new Circle();
         Square square = new Square();
 
         circle.area();
+
     }
 }
